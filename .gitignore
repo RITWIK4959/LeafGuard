@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints
+
+# Keras/TensorFlow
+
+# OS files
+.DS_Store
+
+# VS Code
+.vscode/
+.venv/
+plant_disease_cnn_model.h5
